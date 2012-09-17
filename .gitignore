@@ -1,0 +1,14 @@
+/target
+/target-eclipse
+/logs
+.groovy
+.DS_Store
+/web-app/images/igf
+*.swp
+*.iml
+stacktrace.log
+.idea
+*.log*
+/images
+.groovy
+data
