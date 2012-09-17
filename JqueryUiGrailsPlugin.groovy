@@ -8,7 +8,7 @@ class JqueryUiGrailsPlugin {
 
     // the plugin version
     // NOTE: this does not compile correctly under Grails 2.0, use 1.3.7
-    def version = JQUERYUI_VERSION + (PLUGIN_MINOR_REVISION ? '.' + PLUGIN_MINOR_REVISION : '')
+    def version = "1.8.23" // JQUERYUI_VERSION + (PLUGIN_MINOR_REVISION ? '.' + PLUGIN_MINOR_REVISION : '')
 
 
     // the version or versions of Grails the plugin is designed for
